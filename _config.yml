@@ -91,7 +91,7 @@ hyvor_talk_website_id: 476
 wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: http://eepurl.com/h2AZLv
+mailchimp_form_url: https://github.us13.list-manage.com/subscribe/post?u=67f934e15436af4d4ed7f1caf&amp;id=c8a5de8f22
 
 # contact form - (choose formspress or getform)
 #getform_endpoint: 6fd7805b-137f-43d8-ad2e-4b1faaf1a0cd
