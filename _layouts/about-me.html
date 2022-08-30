@@ -82,6 +82,14 @@ layout: default
           <i class="fab fa-flickr"></i>
         </a>
         {% endif %}
+        {% endif %} {% if site.stackoverflow_username %}
+        <a
+          class="social-link"
+          href="https://www.stackoverflow.com/users//{{ site.stackoverflow_username }}"
+        >
+          <i class="fab fa-stack-overflow"></i>
+        </a>
+        {% endif %}
       </p>
 
       {% if site.author_location %}
