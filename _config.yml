@@ -1,4 +1,4 @@
-title: Erick Dávila
+title: Erickneur
 subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -97,7 +97,7 @@ linkedin_username: erickneur
 telegram_username: erickneur
 #dribbble_username: erickneur
 #flickr_username: erickneur
-stackoverflow_username: 5938089
+stackoverflow_username: "5938089"
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
