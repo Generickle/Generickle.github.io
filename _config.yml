@@ -1,10 +1,10 @@
-title: Erickneur
+title: Erick Dávila
 subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://erickneur.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -26,7 +26,7 @@ urls:
 
 author_logo: profile.jpeg
 author: Erick Dávila
-author_bio: Hi, my name is Erick Dávila. I built this site using devlopr-jekyll :D
+author_bio: Tech lover outstanding in mobile and web development, management of architectures and software deployment, administration of various databases and agile development methodologies.
 author_email: "eedhcontact@gmail.com"
 author_location: Guatemala
 author_website_url: "https://erickneur.github.io"
