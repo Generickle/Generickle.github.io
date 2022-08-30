@@ -39,13 +39,13 @@ author_work_experiences:
               company_logo: viznperformance.png
               company_url: https://viznperformance.com
               designation: iOS developer
-              description: Developing an augmented reality application in SwiftUI, using Vision to detect body poses and YOLOv3 for objects. The platform provides real-time, data driven analysis. This project is managed using Microsoft tools.
+              description: Developing iOS app in SwiftUI to analyze biomechanics in real-time using Vision to detect body poses and YOLOv3 for objects. This project is managed using Microsoft tools.
               visibility: true
             - company_name: Digital Geko
               company_logo: digitalgeko.png
               company_url: https://digitalgeko.com
               designation: Mobile developer
-              description: Managing multinational mobile banking, implementing Scrum with Atlassian tools (Bitbucket, Jira, Confluence).
+              description: Managing multinational mobile banking for Android and iOS, implementing Scrum with Atlassian tools (Bitbucket, Jira, Confluence).
               visibility: true
 
 # Education
@@ -56,7 +56,7 @@ author_education_details:
                 college_degree: Computer Science
                 description: Bachelor of Technology
                 visibility: true
-              - college_logo: platzi.webp
+              - college_logo: platzi.png
                 college_name: Platzi
                 college_url: https://platzi.com
                 college_degree: Apple fullstack
@@ -65,9 +65,24 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
+              - project_thumbnail: golfkinetics.png
+                project_title: Golf Kinetics
+                project_description: iOS app that can help anyone get better at golf 
+                project_url: https://apps.apple.com/ro/app/golf-kinetics/id1636172351?platform=iphone
+                visibility: true
+              - project_thumbnail: promericasv.webp
+                project_title: Promerica El Salvador
+                project_description: Mobile banking app
+                project_url: https://play.google.com/store/apps/details?id=com.promerica.promericaES&hl=en_US&gl=US
+                visibility: true
+              - project_thumbnail: promericagt.webp
+                project_title: Promerica Guatemala
+                project_description: Mobile baking app
+                project_url: https://apps.apple.com/gt/app/banco-promerica-guatemala/id505614199?l=en&platform=iphone
+                visibility: true
+              - project_thumbnail: gymbars.png
                 project_title: Gymbars
-                project_description: Calisthenics gym
+                project_description: Landing page for calisthenics gym
                 project_url: https://gymbarsgt.com
                 visibility: true
 
@@ -89,7 +104,7 @@ telegram_username: erickneur
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: erickneur
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://github.us13.list-manage.com/subscribe/post?u=67f934e15436af4d4ed7f1caf&amp;id=c8a5de8f22
