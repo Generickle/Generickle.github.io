@@ -1,5 +1,5 @@
 backend:
-  name: cheerful-empanada-30475a
+  name: github
   repo: Erickneur/Erickneur.github.io
   branch: master
   site_domain: cheerful-empanada-30475a.netlify.app
