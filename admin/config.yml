@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Erickneur/Erickneur.github.io
   branch: master
-  site_domain: store-ea014.netlify.app
+  site_domain: velvety-mooncake-7bef97.netlify.app
 
 media_folder: "assets/img/posts" # Media files will be stored in the repo under images/uploads
 public_folder: "/assets/img/posts" # The src attribute for uploaded media will begin with /images/uploads
@@ -10,7 +10,7 @@ publish_mode: editorial_workflow # To manage status (Edit, Draft, Publish)
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
-    folder: "_posts" # The path to the folder where the documents are stored
+    #folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter

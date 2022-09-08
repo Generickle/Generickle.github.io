@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
+title:  "iOS in app purchase - almost all problems solved!"
 summary: "Getting Started using devlopr-jekyll"
-author: johndoe
+author: Erickneur
 date: '2019-05-22 14:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
