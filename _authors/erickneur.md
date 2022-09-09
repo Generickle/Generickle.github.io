@@ -3,7 +3,7 @@ name: Erick Dávila
 username: erickeur
 bio: "iOS and Android developer."
 site: https://erickneur.github.io
-avatar: profile.jpeg
+avatar: johndoe.png
 email: eedhcontact@gmail.com
 social:
     - title: "github"
