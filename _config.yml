@@ -65,7 +65,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: golfkinetics.png
+              - project_thumbnail: projects/golfkinetics.png
                 project_title: Golf Kinetics
                 project_description: iOS app that can help anyone get better at golf 
                 project_url: https://apps.apple.com/ro/app/golf-kinetics/id1636172351?platform=iphone

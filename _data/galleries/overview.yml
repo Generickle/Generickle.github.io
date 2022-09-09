@@ -7,3 +7,11 @@
     sizes:
     - 1-thumbnail.jpg
     thumbnail: 1-thumbnail.jpg
+  title: Music
+  directory: music
+  preview:
+    filename: instruments.jpeg
+    original: instruments.jpeg
+    sizes:
+    - instruments.jpeg
+    thumbnail: instruments.jpeg
