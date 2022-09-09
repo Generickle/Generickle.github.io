@@ -240,7 +240,7 @@ header {
 }
 
 .navbar-dark .navbar-brand {
-    color: #0c55c0 !important;
+    color: #2266cc !important;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: var(--nav-link-color) !important;
@@ -316,7 +316,7 @@ header {
         width: 5%;
         cursor: pointer;
         text-align: center;
-        color: blue;
+        color: #2266cc;
 
       .icon {
         vertical-align: text-top;
@@ -324,7 +324,7 @@ header {
         fill: #fff;
 
         &:hover {
-          fill: blue;
+          fill: #2266cc;
           transform: rotate(90deg);
         }
       }
@@ -405,12 +405,12 @@ header {
         text-decoration: none;
         font-size: 25px;
         line-height: 25px;
-        color: blue !important;
+        color: #2266cc !important;
         text-decoration: none;
       }
 
       &__date {
-        color: blue;
+        color: #2266cc;
         font-size: 15px;
         line-height: 15px;
       }
@@ -543,7 +543,7 @@ header {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: darkblue;
+    color: #113366;;
 }
 
 .product{
