@@ -36,13 +36,13 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: Vizn Performance
-              company_logo: viznperformance.png
+              company_logo: companies/viznperformance.png
               company_url: https://viznperformance.com
               designation: iOS developer
               description: Developing iOS app in SwiftUI to analyze biomechanics in real-time using Vision to detect body poses and YOLOv3 for objects. This project is managed using Microsoft tools.
               visibility: true
             - company_name: Digital Geko
-              company_logo: digitalgeko.png
+              company_logo: companies/digitalgeko.png
               company_url: https://digitalgeko.com
               designation: Mobile developer
               description: Managing multinational mobile banking for Android and iOS, implementing Scrum with Atlassian tools (Bitbucket, Jira, Confluence).
@@ -50,13 +50,13 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: usac.png
+              - college_logo: schools/usac.png
                 college_name: USAC
                 college_url: https://usac.edu.gt
                 college_degree: Computer Science
                 description: Bachelor of Technology
                 visibility: true
-              - college_logo: platzi.png
+              - college_logo: schools/platzi.png
                 college_name: Platzi
                 college_url: https://platzi.com
                 college_degree: Apple fullstack
@@ -70,17 +70,17 @@ author_project_details:
                 project_description: iOS app that can help anyone get better at golf 
                 project_url: https://apps.apple.com/ro/app/golf-kinetics/id1636172351?platform=iphone
                 visibility: true
-              - project_thumbnail: promericasv.webp
+              - project_thumbnail: projects/promericasv.webp
                 project_title: Promerica El Salvador
                 project_description: Mobile banking app
                 project_url: https://play.google.com/store/apps/details?id=com.promerica.promericaES&hl=en_US&gl=US
                 visibility: true
-              - project_thumbnail: promericagt.webp
+              - project_thumbnail: projects/promericagt.webp
                 project_title: Promerica Guatemala
                 project_description: Mobile baking app
                 project_url: https://apps.apple.com/gt/app/banco-promerica-guatemala/id505614199?l=en&platform=iphone
                 visibility: true
-              - project_thumbnail: gymbars.png
+              - project_thumbnail: projects/gymbars.png
                 project_title: Gymbars
                 project_description: Landing page for calisthenics gym
                 project_url: https://gymbarsgt.com
