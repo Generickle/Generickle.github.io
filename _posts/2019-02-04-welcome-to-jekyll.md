@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "iOS in app purchase - almost all problems solved!"
-summary: "Getting Started using devlopr-jekyll"
+title:  "iOS in app purchases and subscriptions - almost all problems solved!"
+summary: "Full guide to manage the app store connect in app purchases and subscriptions"
 author: erickneur
-date: '2019-05-22 14:35:23 +0530'
-category: jekyll
+date: '2023-07-01 6:00:00 +0530'
+category: ['ios','guides']
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
-permalink: /blog/welcome-to-devlopr-jekyll/
+keywords: app store connect, how to use app store connect, ios payments, how to use appstoreconnect, appstoreconnect tutorial,best practices for apple subscriptions
+permalink: /blog/ios-payments/
 usemathjax: true
 ---
 
