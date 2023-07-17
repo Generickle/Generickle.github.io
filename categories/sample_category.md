@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guides
+title: Category
 permalink: /blog/categories/sample_category/
 ---
 
