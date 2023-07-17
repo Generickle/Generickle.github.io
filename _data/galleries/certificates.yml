@@ -1,13 +1,13 @@
 picture_path: certificates
 preview:
-  filename: instruments
-  original: instruments.jpeg
+  filename: diploma-apple-fullstack
+  original: diploma-apple-fullstack.jpeg
   sizes:
-  - instruments.jpeg
-  thumbnail: instruments.jpeg
+  - diploma-apple-fullstack.jpeg
+  thumbnail: diploma-apple-fullstack.jpeg
 pictures:
-- filename: instruments
-  original: instruments.jpeg
+- filename: diploma-apple-fullstack
+  original: diploma-apple-fullstack.jpeg
   sizes:
-  - instruments.jpeg
-  thumbnail: instruments.jpeg
+  - diploma-apple-fullstack.jpeg
+  thumbnail: diploma-apple-fullstack.jpeg
