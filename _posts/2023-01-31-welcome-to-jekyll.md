@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "iOS in app purchases and subscriptions - almost all problems solved!"
-summary: "Full guide to manage the app store connect in app purchases and subscriptions"
-author: erickneur
-date: '2023-07-01 6:00:00 +0530'
-category: ['ios','guides']
+title:  "Welcome to devlopr-jekyll !"
+summary: "Getting Started using devlopr-jekyll"
+author: johndoe
+date: '2023-01-31 14:35:23 +0530'
+category: jekyll
 thumbnail: /assets/img/posts/code.jpg
-keywords: app store connect, how to use app store connect, ios payments, how to use appstoreconnect, appstoreconnect tutorial,best practices for apple subscriptions
-permalink: /blog/ios-payments/
+keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
 ---
 
@@ -36,4 +36,3 @@ function sum (num1,num2){
 }
 var result = sum(a,b);
 ```
-
