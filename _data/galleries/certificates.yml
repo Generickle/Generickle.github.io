@@ -11,3 +11,13 @@ pictures:
   sizes:
   - diploma-apple-fullstack.jpeg
   thumbnail: diploma-apple-fullstack.jpeg
+- filename: diploma-git-github
+  original: diploma-git-github.png
+  sizes:
+  - diploma-git-github.png
+  thumbnail: diploma-git-github.png
+- filename: diploma-basico-javascript
+  original: diploma-basico-javascript.png
+  sizes:
+  - diploma-basico-javascript.png
+  thumbnail: diploma-basico-javascript.png
