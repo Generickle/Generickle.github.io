@@ -21,3 +21,43 @@ pictures:
   sizes:
   - diploma-basico-javascript.png
   thumbnail: diploma-basico-javascript.png
+- filename: english
+  original: english.png
+  sizes:
+  - english.png
+  thumbnail: english.png
+- filename: diploma-game-maker
+  original: diploma-game-maker.png
+  sizes:
+  - diploma-game-maker.png
+  thumbnail: diploma-game-maker.png
+- filename: diploma-apple-watch
+  original: diploma-apple-watch.png
+  sizes:
+  - diploma-apple-watch.png
+  thumbnail: diploma-apple-watch.png
+- filename: diploma-ingenieria
+  original: diploma-ingenieria.png
+  sizes:
+  - diploma-ingenieria.png
+  thumbnail: diploma-ingenieria.png
+- filename: diploma-java-basico
+  original: diploma-java-basico.png
+  sizes:
+  - diploma-java-basico.png
+  thumbnail: diploma-java-basico.png
+- filename: diploma-java-oop
+  original: diploma-java-oop.png
+  sizes:
+  - diploma-java-oop.png
+  thumbnail: diploma-java-oop.png
+- filename: diploma-swiftui-apps-ios
+  original: diploma-swiftui-apps-ios.png
+  sizes:
+  - diploma-swiftui-apps-ios.png
+  thumbnail: diploma-swiftui-apps-ios.png
+- filename: diploma-terminal
+  original: diploma-terminal.png
+  sizes:
+  - diploma-terminal.png
+  thumbnail: diploma-terminal.png
