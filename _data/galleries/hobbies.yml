@@ -11,3 +11,8 @@ pictures:
   sizes:
   - instruments.jpeg
   thumbnail: instruments.jpeg
+- filename: gym
+  original: gym.mp4
+  sizes:
+  - gym.png
+  thumbnail: gym.png
