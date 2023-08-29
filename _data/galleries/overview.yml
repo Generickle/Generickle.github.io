@@ -8,15 +8,6 @@
 #    - 1-thumbnail.jpg
 #    thumbnail: 1-thumbnail.jpg
 -
-  title: Projects
-  directory: projects
-  preview:
-    filename: instruments.jpeg
-    original: instruments.jpeg
-    sizes:
-    - instruments.jpeg
-    thumbnail: instruments.jpeg
--
   title: Certificates
   directory: certificates
   preview:
@@ -25,15 +16,6 @@
     sizes:
     - diploma-apple-fullstack.png
     thumbnail: diploma-apple-fullstack.png
--
-  title: Interests
-  directory: interests
-  preview:
-    filename: instruments.jpeg
-    original: instruments.jpeg
-    sizes:
-    - instruments.jpeg
-    thumbnail: instruments.jpeg
 -
   title: Hobbies
   directory: hobbies
