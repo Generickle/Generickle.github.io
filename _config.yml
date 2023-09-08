@@ -30,7 +30,8 @@ author_bio: "Tech lover with expertise in mobile and web development, software d
 <br>
 <br>
 Proficient in native iOS app development using Swift, with knowledge extending to Android and cross-platform applications. Skilled in design patterns, RESTful APIs, and local storage solutions. Experienced in deploying apps to App Store Connect, Google Play Console, and App Gallery Connect.
-<br style = “line-height:100;”> 
+<br>
+<br>
 I have worked on many types of projects, in different industries, with a robust architecture, a good user experience and the latest features, I hope the new projects are a challenge."
 author_email: "erick.e.davila@gmail.com"
 author_location: Everywhere 🌎
@@ -45,7 +46,8 @@ author_work_experiences:
               company_url: https://viznperformance.com
               designation: iOS developer
               description: "Development of iOS applications that improve the skills of professional athletes. The main tasks are creating new features using the same graphic line, improve body detection, solve bugs, repository management, deploy the projects to App Store, database design and using Microsoft tools for project management.
-<br style = “line-height:100;”> 
+<br>
+<br>
 ●	Technologies: Swift, SwiftUI, Vision, AVKit, AVFoundation, StoreKit, Laravel, MySQL, Git."
               visibility: true
             - company_name: CARI
@@ -53,7 +55,8 @@ author_work_experiences:
               company_url: https://cari.net
               designation: Sr. Software developer
               description: "Development of new features for American client applications and maintenance of existing modules. The main tasks are researching about new iOS features, review pull requests, deploy the projects to App Store and develop new modules.
-<br style = “line-height:100;”> 
+<br>
+<br>
 ●	Technologies: Swift, SwiftUI, AVKit, AVFoundation, URLSession, Azure DevOps, Git."
               visibility: true
             - company_name: Digital Geko
@@ -61,7 +64,8 @@ author_work_experiences:
               company_url: https://digitalgeko.com
               designation: Mobile developer
               description: "Developing new features for Promerica El Salvador iOS and Android apps, assignment tasks for the team, implementing Scrum, analyses new requirements and review the deploy for App Store, Google Play and App Gallery. Also, I supported in some features of Promerica Guatemala iOS app.
-<br style = “line-height:100;”> 
+<br>
+<br>
 ●	Technologies: Objective-C, Swift, Jira, Confluence, Bitbucket, Appium, Azure, Oracle Linux, MySQL, Java, Sketch, Invision, Git."
               visibility: true
             - company_name: USAC
@@ -69,7 +73,8 @@ author_work_experiences:
               company_url: https://usac.edu.gt
               designation: Academic Thutor
               description: "Teaching the Computational Organization laboratory as part of the 400 hours of supervised practice and contracted during the June 2018 vacation school.
-<br style = “line-height:100;”> 
+<br>
+<br>
 ●	Technologies: Java, C#, Proteus, G-suit."
               visibility: true
             - company_name: Arqco de Guatemala
@@ -77,7 +82,8 @@ author_work_experiences:
               company_url: 
               designation: Backoffice
               description: "Working at the Plaza Tigo’s installations, developing office automation solutions for the human resources department.
-<br style = “line-height:100;”> 
+<br>
+<br>
 ●	Technologies: Visual Basic for Applications, Microsoft Office."
               visibility: true
 
