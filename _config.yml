@@ -1,7 +1,7 @@
 title: Erickneur
 subtitle: Mobile Developer
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Tech lover, creative, honest and I'm not afraid to let me flow. Sure, I'm also so good conceptualizing any idea with code!
 
 url: "https://erickneur.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -26,11 +26,13 @@ urls:
 
 author_logo: profile.jpeg
 author: Erick Dávila
-author_bio: Tech lover outstanding in mobile and web development, management of architectures and software deployment, administration of various databases and agile development methodologies.
-author_email: "eedhcontact@gmail.com"
+author_bio: Tech lover with expertise in mobile and web development, software deployment, and database administration.
+Proficient in native iOS app development using Swift, with knowledge extending to Android and cross-platform applications. Skilled in design patterns, RESTful APIs, and local storage solutions. Experienced in deploying apps to App Store Connect, Google Play Console, and App Gallery Connect.
+I have worked on many types of projects, in different industries, with a robust architecture, a good user experience and the latest features, I hope the new projects are a challenge.
+author_email: "erick.e.davila@gmail.com"
 author_location: Everywhere 🌎
 author_website_url: "https://erickneur.github.io"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: +++...I just being me...+++
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -50,34 +52,46 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: schools/usac.png
-                college_name: USAC
-                college_url: https://usac.edu.gt
-                college_degree: Computer Science
-                description: Bachelor of Technology
-                visibility: true
               - college_logo: schools/platzi.png
                 college_name: Platzi
                 college_url: https://platzi.com
                 college_degree: Apple fullstack
                 description: iOS mobile developer
                 visibility: true
+              - college_logo: schools/usac.png
+                college_name: USAC
+                college_url: https://postgrado.ingenieria.usac.edu.gt/proyecto-meaning/ciencias-de-la-computacion/
+                college_degree: Master's degree in Computer Science
+                description: With specialization in data science
+                visibility: true
+              - college_logo: schools/usac.png
+                college_name: USAC
+                college_url: https://portal.ingenieria.usac.edu.gt/redes-de-estudios/clar/ingenieria-en-ciencias-y-sistemas
+                college_degree: Bachelor's degree in Computer Science
+                description: Systems methodology, computer science and software development.
+                visibility: true
+              
 
 # Projects
 author_project_details:
-              - project_thumbnail: projects/golfkinetics.png
-                project_title: Golf Kinetics
-                project_description: iOS app that can help anyone get better at golf 
-                project_url: https://apps.apple.com/ro/app/golf-kinetics/id1636172351?platform=iphone
+              - project_thumbnail: projects/viznperformance.jpeg
+                project_title: Vizn Performance apps
+                project_description: iOS apps that use Vision for body poses and YOLOv8 for objects detection
+                project_url: https://apps.apple.com/sa/developer/vizn-performance-inc/id1576009990
+                visibility: true
+              - project_thumbnail: projects/promericasv2.jpeg
+                project_title: Promerica El Salvador
+                project_description: Mobile banking iOS app
+                project_url: https://apps.apple.com/gt/app/promerica-sv/id1597163474?platform=iphone
                 visibility: true
               - project_thumbnail: projects/promericasv.webp
                 project_title: Promerica El Salvador
-                project_description: Mobile banking app
+                project_description: Mobile banking Android app
                 project_url: https://play.google.com/store/apps/details?id=com.promerica.promericaES&hl=en_US&gl=US
                 visibility: true
               - project_thumbnail: projects/promericagt.webp
                 project_title: Promerica Guatemala
-                project_description: Mobile baking app
+                project_description: Mobile baking iOS app
                 project_url: https://apps.apple.com/gt/app/banco-promerica-guatemala/id505614199?l=en&platform=iphone
                 visibility: true
               - project_thumbnail: projects/gymbars.png
