@@ -27,9 +27,9 @@ urls:
 author_logo: profile.jpeg
 author: Erick Dávila
 author_bio: "Tech lover with expertise in mobile and web development, software deployment, and database administration.
-
+<br>
 Proficient in native iOS app development using Swift, with knowledge extending to Android and cross-platform applications. Skilled in design patterns, RESTful APIs, and local storage solutions. Experienced in deploying apps to App Store Connect, Google Play Console, and App Gallery Connect.
-
+\n
 I have worked on many types of projects, in different industries, with a robust architecture, a good user experience and the latest features, I hope the new projects are a challenge."
 author_email: "erick.e.davila@gmail.com"
 author_location: Everywhere 🌎
