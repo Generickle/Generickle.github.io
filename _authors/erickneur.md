@@ -1,8 +1,8 @@
 ---
 name: Erick Dávila
-username: erickeur
+username: generickle
 bio: "iOS and Android developer."
-site: https://erickneur.com
+site: https://generickle.github.io
 avatar: profile.jpeg
 email: eedhcontact@gmail.com
 social:
