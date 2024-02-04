@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS in app purchases and subscriptions - almost all problems solved!"
 summary: "Full guide to manage the app store connect in app purchases and subscriptions"
-author: erickneur
+author: generickle
 date: '2023-06-30 6:00:00 +0530'
 category: ['ios','guides']
 thumbnail: /assets/img/posts/code.jpg

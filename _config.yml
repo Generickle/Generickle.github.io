@@ -138,26 +138,26 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: erickneur
-github_username:  erickneur
-#facebook_username: erickneur
-linkedin_username: erickneur
-#behance_username: erickneur
-#instagram_username: erickneur
-#medium_username: erickneur
-telegram_username: erickneur
-#dribbble_username: erickneur
-#flickr_username: erickneur
+twitter_username: generickle
+github_username:  generickle
+#facebook_username: generickle
+linkedin_username: generickle
+#behance_username: generickle
+#instagram_username: generickle
+#medium_username: generickle
+telegram_username: generickle
+#dribbble_username: generickle
+#flickr_username: generickle
 stackoverflow_username: "5938089"
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # disqus_shortname: sujay-kundu
-utterances: Erickneur/Erickneur.github.io
+utterances: Generickle/Generickle.github.io
 #hyvor_talk_website_id: 9150
 
 # wakatime username (coding activity)
-wakatime_username: erickneur
+wakatime_username: generickle
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://github.us13.list-manage.com/subscribe/post?u=67f934e15436af4d4ed7f1caf&amp;id=c8a5de8f22

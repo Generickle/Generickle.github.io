@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Erickneur/Erickneur.github.io
+  repo: Generickle/Generickle.github.io
   branch: master
   site_domain: velvety-mooncake-7bef97.netlify.app
 
