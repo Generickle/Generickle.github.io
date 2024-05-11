@@ -8,8 +8,7 @@ layout: default
         <a href="/">
           <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="profile-img" />
         </a>
-        <h1 class="profile-name">{{ site.author }}</h1>
-        <p class="profile-bio">{{ site.subtitle }}</p>
+        <h1 class="profile-contact">Contact</h1>
         {% if site.github_username %} {%- include github_follow_button.html -%} {%
         endif %}
         <p class="profile-links">
@@ -81,11 +80,17 @@ layout: default
       </div>
       {% endif %}
 
+      <div class="card">
+        <h1>Interests</h1>
+        {%- include author_interests.html -%}
+      </div>
+
     </div>
     <div class="col-lg-8">
       {% if site.author_bio %}
       <div class="card">
-        <h1 class="card-title">About</h1>
+        <h1 class="card-title">{{ site.author }}</h1>
+        <p class="profile-bio">{{ site.subtitle }}</p>
         <p>{{ site.author_bio }}</p>
       </div>
       {% endif %} {% if site.show_author_project_details == true %}
