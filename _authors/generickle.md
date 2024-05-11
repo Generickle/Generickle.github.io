@@ -12,6 +12,8 @@ social:
       url: "https://www.stackoverflow.com/users/5938089"
     - title: "linkedin"
       url: "https://www.linkedin.com/in/generickle"
+    - title: "platzi"
+      url: "https://platzi.com/p/generickle"
     - title: "twitter"
       url: "https://www.twitter.com/generickle"
     - title: "telegram"
