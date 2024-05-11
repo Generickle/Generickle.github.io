@@ -1,9 +1,9 @@
 ---
 name: Erick Dávila
 username: generickle
-bio: "iOS and Android developer."
+bio: "Mobile app engineer"
 site: https://generickle.github.io
-avatar: profile.jpeg
+avatar: logo.jpg
 email: eedhcontact@gmail.com
 social:
     - title: "github"

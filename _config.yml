@@ -1,5 +1,5 @@
 title: Erick Dávila
-subtitle: Mobile Developer
+subtitle: Mobile app engineer
 description: >- # this means to ignore newlines until "baseurl:"
   Tech lover, creative, honest and I'm not afraid to let me flow. Sure, I'm also so good conceptualizing any idea with code!
 
@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.jpeg
+author_logo: logo.jpg
 author: Erick Dávila
 author_bio: "Tech lover with expertise in mobile and web development, software deployment, and database administration.
 <br>
@@ -41,14 +41,24 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Vizn Performance
+            - company_name: Tribal Worldwide
               company_logo: companies/viznperformance.png
+              company_url: https://tribalworldwide.gt
+              designation: iOS developer
+              description: "Worked closely with cross-functional teams to develop new app modules and reusable components, including dynamic server-driven UI elements. Other activities include Maintaining existing features such as facial recognition and Apple Pay integration ensuring optimal performance and user experience. Reviewing pull requests and implementing Scrum methodologies to streamline development processes.
+<br>
+<br>
+●	<b>Tools and technologies:</b> Swift, SnapKit, UIKit, SwiftUI, SOLID, Combine, Viper, Quick,
+Fastlane, Carthage, Cocoapods, Firebase, SwiftLint, Git, Figma, Discord, Jira,
+Confluence, BitBucket, Miroo, Google Workspace."
+            - company_name: Vizn Performance
+              company_logo: companies/tribal.jpg
               company_url: https://viznperformance.com
               designation: iOS developer
               description: "Development of iOS applications that improve the skills of professional athletes. The main tasks are creating new features using the same graphic line, improve body detection, solve bugs, repository management, deploy the projects to App Store, database design and using Microsoft tools for project management.
 <br>
 <br>
-●	Technologies: Swift, SwiftUI, Vision, AVKit, AVFoundation, StoreKit, Laravel, MySQL, Git."
+●	<b>Tools and technologies:</b> Swift, SwiftUI, Vision, AVKit, AVFoundation, StoreKit, Laravel, MySQL, Git."
               visibility: true
             - company_name: CARI
               company_logo: companies/cari.jpeg
@@ -57,7 +67,7 @@ author_work_experiences:
               description: "Development of new features for American client applications and maintenance of existing modules. The main tasks are researching about new iOS features, review pull requests, deploy the projects to App Store and develop new modules.
 <br>
 <br>
-●	Technologies: Swift, SwiftUI, AVKit, AVFoundation, URLSession, Azure DevOps, Git."
+●	<b>Tools and technologies:</b> Swift, SwiftUI, AVKit, AVFoundation, URLSession, Azure DevOps, Git."
               visibility: true
             - company_name: Digital Geko
               company_logo: companies/digitalgeko.png
@@ -66,7 +76,7 @@ author_work_experiences:
               description: "Developing new features for Promerica El Salvador iOS and Android apps, assignment tasks for the team, implementing Scrum, analyses new requirements and review the deploy for App Store, Google Play and App Gallery. Also, I supported in some features of Promerica Guatemala iOS app.
 <br>
 <br>
-●	Technologies: Objective-C, Swift, Jira, Confluence, Bitbucket, Appium, Azure, Oracle Linux, MySQL, Java, Sketch, Invision, Git."
+●	<b>Tools and technologies:</b> Objective-C, Swift, Jira, Confluence, Bitbucket, Appium, Azure, Oracle Linux, MySQL, Java, Sketch, Invision, Git."
               visibility: true
             - company_name: USAC
               company_logo: schools/usac.png
@@ -75,7 +85,7 @@ author_work_experiences:
               description: "Teaching the Computational Organization laboratory as part of the 400 hours of supervised practice and contracted during the June 2018 vacation school.
 <br>
 <br>
-●	Technologies: Java, C#, Proteus, G-suit."
+●	<b>Tools and technologies:</b> Java, C#, Proteus, G-suit."
               visibility: true
             - company_name: Arqco de Guatemala
               company_logo: companies/arqco.jpeg
@@ -84,22 +94,22 @@ author_work_experiences:
               description: "Working at the Plaza Tigo’s installations, developing office automation solutions for the human resources department.
 <br>
 <br>
-●	Technologies: Visual Basic for Applications, Microsoft Office."
+●	<b>Tools and technologies:</b> Visual Basic for Applications, Microsoft Office."
               visibility: true
 
 # Education
 author_education_details:
+              - college_logo: schools/usac.png
+                college_name: USAC
+                college_url: https://postgrado.ingenieria.usac.edu.gt/proyecto-meaning/ciencias-de-la-computacion/
+                college_degree: Master's degree in Data Science
+                description: Data mining, data analysis, machine learning and project management.
+                visibility: true
               - college_logo: schools/platzi.png
                 college_name: Platzi
                 college_url: https://platzi.com
                 college_degree: Apple fullstack
                 description: iOS mobile developer
-                visibility: true
-              - college_logo: schools/usac.png
-                college_name: USAC
-                college_url: https://postgrado.ingenieria.usac.edu.gt/proyecto-meaning/ciencias-de-la-computacion/
-                college_degree: Master's degree in Computer Science
-                description: With specialization in data science
                 visibility: true
               - college_logo: schools/usac.png
                 college_name: USAC
@@ -111,6 +121,16 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: projects/bibanking.jpg
+                project_title: Bi Banking
+                project_description: Enterprise banking iOS app
+                project_url: https://apps.apple.com/sa/developer/vizn-performance-inc/id1576009990
+                visibility: true
+              - project_thumbnail: projects/bienlinea.png
+                project_title: Bi en Línea
+                project_description: Mobile banking iOS app
+                project_url: https://apps.apple.com/sa/developer/vizn-performance-inc/id1576009990
+                visibility: true
               - project_thumbnail: projects/viznperformance.jpeg
                 project_title: Vizn Performance apps
                 project_description: iOS apps that use Vision for body poses and YOLOv8 for objects detection

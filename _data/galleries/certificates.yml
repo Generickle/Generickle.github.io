@@ -11,6 +11,11 @@ pictures:
   sizes:
   - diploma-apple-fullstack.png
   thumbnail: diploma-apple-fullstack.png
+- filename: certificate-scrum
+  original: certificate-scrum.jpg
+  sizes:
+  - certificate-scrum.jpg
+  thumbnail: diploma-apple-fullstack.png
 - filename: diploma-git-github
   original: diploma-git-github.png
   sizes:
