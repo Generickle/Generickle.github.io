@@ -9,8 +9,7 @@ layout: default
           <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="profile-img" />
         </a>
         <h3 class="profile-contact">Contact</h3>
-        {% if site.github_username %} {%- include github_follow_button.html -%} {%
-        endif %}
+        {% if site.github_username %} {%- include github_follow_button.html -%} {% endif %}
         <p class="profile-links">
           {% if site.github_username %}
           <a class="social-link" href="http://github.com/{{ site.github_username }}">
