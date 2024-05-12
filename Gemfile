@@ -1,12 +1,11 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.3.2'
-gem 'bundler', '~> 2.3.7'
+gem 'jekyll'
+gem 'bundler'
 gem 'faraday-retry'
-gem 'backports', '~> 3.23'
+gem 'backports'
 gem 'kramdown'
 gem 'puma'
-gem "github-pages"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
