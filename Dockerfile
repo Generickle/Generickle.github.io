@@ -8,7 +8,8 @@ RUN gem install bundler && \
     rm -rf Gemfile.lock && \
     chmod -R 777 ${PWD} && \
     bundle update && \
-    bundle install
+    bundle install && \
+    libffi8
     # jekyll build && \
     # jekyll serve --livereload --drafts --trace
 
