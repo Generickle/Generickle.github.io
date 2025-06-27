@@ -253,17 +253,20 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-admin
+  - jekyll-feed
+
+  # jekyll admin is causing issues with github pages, so it's disabled by default
+  # - jekyll-admin 
 
 # Jekyll Admin Config
-jekyll_admin:
+# jekyll_admin:
   # hidden_links:
   #   - posts
   #   - pages
   #   - staticfiles
   #   - datafiles
   #   - configuration
-  homepage: "posts"
+  # homepage: "posts"
 
 
 # Exclude from processing.
@@ -278,6 +281,10 @@ jekyll_admin:
 # none - For no default
 # gh-pages - For Github Pages
 # firebase - For Firebase Hosting
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 exclude:
   - .sass-cache/
