@@ -42,7 +42,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: Tribal Worldwide
-              company_logo: companies/viznperformance.png
+              company_logo: companies/tribal.jpg
               company_url: https://tribalworldwide.gt
               designation: iOS Developer
               visibility: true
@@ -55,7 +55,7 @@ Confluence, BitBucket, Miroo, Google Workspace."
 
 
             - company_name: Vizn Performance
-              company_logo: companies/tribal.jpg
+              company_logo: companies/viznperformance.png
               company_url: https://viznperformance.com
               designation: iOS Developer
               description: "Develop iOS apps to enhance professional athletes' skills. Responsibilities include creating new features, refining body detection, bug fixing, managing repositories, deploying apps to the App Store, designing databases, and using Microsoft tools for project management.
