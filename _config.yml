@@ -46,66 +46,45 @@ author_work_experiences:
               company_url: https://tribalworldwide.gt
               designation: iOS Developer
               visibility: true
-              description: "Worked closely with cross-functional teams to develop new app modules and reusable components, including dynamic server-driven UI elements. Other activities include Maintaining existing features such as facial recognition and Apple Pay integration ensuring optimal performance and user experience. Reviewing pull requests and implementing Scrum methodologies to streamline development processes.
-<br>
-<br>
-●	<b>Tools and technologies:</b> Swift, SnapKit, UIKit, SwiftUI, SOLID, Combine, Viper, Quick,
-Fastlane, Carthage, Cocoapods, Firebase, SwiftLint, Git, Figma, Discord, Jira,
-Confluence, BitBucket, Miroo, Google Workspace."
-
+              description: Worked closely with cross-functional teams to develop new app modules and reusable components, including dynamic server-driven UI elements. Other activities include Maintaining existing features such as facial recognition and Apple Pay integration ensuring optimal performance and user experience. Reviewing pull requests and implementing Scrum methodologies to streamline development processes.<br><br>●	<b>Tools and technologies:</b> Swift, SnapKit, UIKit, SwiftUI, SOLID, Combine, Viper, Quick,Fastlane, Carthage, Cocoapods, Firebase, SwiftLint, Git, Figma, Discord, Jira,Confluence, BitBucket, Miroo, Google Workspace.
 
             - company_name: Vizn Performance
               company_logo: companies/viznperformance.png
               company_url: https://viznperformance.com
               designation: iOS Developer
-              description: "Develop iOS apps to enhance professional athletes' skills. Responsibilities include creating new features, refining body detection, bug fixing, managing repositories, deploying apps to the App Store, designing databases, and using Microsoft tools for project management.
-<br>
-<br>
-●	<b>Tools and technologies:</b> Swift, SwiftUI, Vision, AVKit, AVFoundation, StoreKit, Laravel, MySQL, Git."
-
+              visibility: true
+              description: Develop iOS apps to enhance professional athletes' skills. Responsibilities include creating new features, refining body detection, bug fixing, managing repositories, deploying apps to the App Store, designing databases, and using Microsoft tools for project management.<br><br>●	<b>Tools and technologies:</b> Swift, SwiftUI, Vision, AVKit, AVFoundation, StoreKit, Laravel, MySQL, Git."
 
             - company_name: CARI
               company_logo: companies/cari.jpeg
               company_url: https://cari.net
               designation: Sr. Software Developer
-              description: "Development of new features for American client applications and maintenance of existing modules. The main tasks are researching about new iOS features, review pull requests, deploy the projects to App Store and develop new modules.
-<br>
-<br>
-●	<b>Tools and technologies:</b> Swift, SwiftUI, AVKit, AVFoundation, URLSession, Azure DevOps, Git."
               visibility: true
-
+              description: Development of new features for American client applications and maintenance of existing modules. The main tasks are researching about new iOS features, review pull requests, deploy the projects to App Store and develop new modules.<br><br>●	<b>Tools and technologies:</b> Swift, SwiftUI, AVKit, AVFoundation, URLSession, Azure DevOps, Git.
 
             - company_name: Digital Geko
               company_logo: companies/digitalgeko.png
               company_url: https://digitalgeko.com
               designation: Mobile Developer
-              description: "Developing new features for Promerica El Salvador iOS and Android apps, assignment tasks for the team, implementing Scrum, analyses new requirements and review the deploy for App Store, Google Play and App Gallery. Also, I supported in some features of Promerica Guatemala iOS app.
-<br>
-<br>
-●	<b>Tools and technologies:</b> Objective-C, Swift, Jira, Confluence, Bitbucket, Appium, Azure, Oracle Linux, MySQL, Java, Sketch, Invision, Git."
               visibility: true
-
-
+              description: Developing new features for Promerica El Salvador iOS and Android apps, assignment tasks for the team, implementing Scrum, analyses new requirements and review the deploy for App Store, Google Play and App Gallery. Also, I supported in some features of Promerica Guatemala iOS app.<br><br>●	<b>Tools and technologies:</b> Objective-C, Swift, Jira, Confluence, Bitbucket, Appium, Azure, Oracle Linux, MySQL, Java, Sketch, Invision, Git.
+              
             - company_name: USAC
               company_logo: schools/usac.png
               company_url: https://usac.edu.gt
               designation: Academic Thutor
-              description: "Teaching the Computational Organization laboratory as part of the 400 hours of supervised practice and contracted during the June 2018 vacation school.
-<br>
-<br>
-●	<b>Tools and technologies:</b> Java, C#, Proteus, G-suit."
               visibility: true
+              description: Teaching the Computational Organization laboratory as part of the 400 hours of supervised practice and contracted during the June 2018 vacation school.<br><br>●	<b>Tools and technologies:</b> Java, C#, Proteus, G-suit.
+              
 
 
             - company_name: Arqco de Guatemala
               company_logo: companies/arqco.jpeg
               company_url: 
               designation: Backoffice
-              description: "Working at the Plaza Tigo’s installations, developing office automation solutions for the human resources department.
-<br>
-<br>
-●	<b>Tools and technologies:</b> Visual Basic for Applications, Microsoft Office."
               visibility: true
+              description: Working at the Plaza Tigo’s installations, developing office automation solutions for the human resources department.<br><br>●	<b>Tools and technologies:</b> Visual Basic for Applications, Microsoft Office.
+              
 
 # Education
 author_education_details:
